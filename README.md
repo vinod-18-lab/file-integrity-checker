@@ -149,3 +149,6 @@ Easy to run in any Python environment.
 Conclusion
 
 The File Integrity Checker is a simple yet effective security tool that verifies whether files have been modified. By using cryptographic hash functions, the program ensures that any change in file content can be quickly detected. This project provides a basic understanding of file integrity monitoring and demonstrates how hashing techniques are used in cybersecurity applications.
+
+#OUTPUT#
+<img width="962" height="620" alt="Image" src="https://github.com/user-attachments/assets/1fdcd36f-75a7-4836-a9d5-5fd0038410fe" />
